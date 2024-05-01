@@ -1,0 +1,5 @@
+Aula git proway
+
+- criando repositorio
+
+- comandos basicos
